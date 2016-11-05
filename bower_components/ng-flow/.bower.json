@@ -1,6 +1,6 @@
 {
   "name": "ng-flow",
-  "version": "2.7.1",
+  "version": "2.7.4",
   "ignore": [
     "**/.*",
     "test",
@@ -22,13 +22,14 @@
     "angular-mocks": "~1"
   },
   "homepage": "https://github.com/flowjs/ng-flow",
-  "_release": "2.7.1",
+  "_release": "2.7.4",
   "_resolution": {
     "type": "version",
-    "tag": "v2.7.1",
-    "commit": "e7550e9e148a790993e7274dbad99f9f366667e6"
+    "tag": "v2.7.4",
+    "commit": "41c7068a1b136eb894dcf4bc7da49a32de48d7b8"
   },
   "_source": "https://github.com/flowjs/ng-flow.git",
-  "_target": "^2.7.1",
-  "_originalSource": "ng-flow"
+  "_target": "~2",
+  "_originalSource": "ng-flow",
+  "_direct": true
 }

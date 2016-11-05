@@ -1,6 +1,5 @@
 {
   "name": "angular-ui-ace",
-  "version": "0.2.3",
   "main": [
     "./ui-ace.js"
   ],
@@ -9,13 +8,13 @@
     "ace-builds": "^1"
   },
   "homepage": "https://github.com/angular-ui/ui-ace",
-  "_release": "0.2.3",
+  "_release": "36844ff7c0",
   "_resolution": {
-    "type": "version",
-    "tag": "v0.2.3",
+    "type": "branch",
+    "branch": "bower",
     "commit": "36844ff7c0e0d9445bc8e31514d7f0f59cb8b048"
   },
   "_source": "https://github.com/angular-ui/ui-ace.git",
-  "_target": "^0.2.3",
+  "_target": "bower",
   "_originalSource": "angular-ui-ace"
 }

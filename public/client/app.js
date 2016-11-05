@@ -5,7 +5,7 @@
         var app = angular.module('codingTutorial',
             ['ngRoute',
                     'ngMaterial',
-                    'chart.js',
+                    //'chart.js',
                     'md.data.table',
                     'flow',
                     'ngYoutubeEmbed',
